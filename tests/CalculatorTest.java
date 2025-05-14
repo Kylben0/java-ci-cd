@@ -13,4 +13,6 @@ public class CalculatorTest {
     public void testSubstraction(){
         assertEquals(5, Calculator.substract(7, 2));
     }
+
+    // Modification légère du code
 }
