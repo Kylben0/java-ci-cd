@@ -12,6 +12,6 @@ public class Calculator {
         System.out.println("Somme :"+add(4,6));
     }
 
-
+}
 
     // Modification dans le code

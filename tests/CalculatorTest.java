@@ -1,6 +1,5 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
-
 import java.beans.Transient;
 
 public class CalculatorTest {
@@ -14,5 +13,4 @@ public class CalculatorTest {
         assertEquals(5, Calculator.substract(7, 2));
     }
 
-    // Modification légère du code
 }
